@@ -1,10 +1,10 @@
 body
 {
-background-color:lavenderblush;
+background-color:beige;
 }
 header
 {
-    background-color:beige;
+    background-color:sienna;
 }
 nav ul
 {
@@ -19,14 +19,14 @@ float:left;
 li a
 {
 display:block;
-color: beige;
+color:mediumvioletred;
 text-align:center;
 padding:16px;
 }
 h4
 {
 width:50%;
-color:darkmagenta;
+color:mediumvioletred;
 font-family:'Times New Roman', Times, serif;
 text-align:center;
 }
