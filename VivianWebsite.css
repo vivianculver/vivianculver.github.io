@@ -1,10 +1,10 @@
 body
 {
-background-color:skyblue;
+background-color:pink;
 }
 header
 {
-    background-color:pink;
+    background-color:hotpink;
 }
 nav ul
 {
@@ -19,17 +19,17 @@ float:left;
 li a
 {
 display:block;
-color:palevioletred;
+color:hotpink;
 text-align:center;
 padding:16px;
 }
 h1
 {
-color:palevioletred;
+color:hotpink;
 }
 h4
 {
 width:50%;
-color:palevioletred;
+color:hotpink;
 text-align:center;
 }
