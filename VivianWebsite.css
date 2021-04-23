@@ -1,0 +1,32 @@
+body
+{
+background-color:lavenderblush;
+}
+header
+{
+    background-color:beige;
+}
+nav ul
+{
+list-style-type:circle;
+margin:20px;
+padding:16px;
+}
+li
+{
+float:left;
+}
+li a
+{
+display:block;
+color: beige;
+text-align:center;
+padding:16px;
+}
+h4
+{
+width:50%;
+color:darkmagenta;
+font-family:'Times New Roman', Times, serif;
+text-align:center;
+}
